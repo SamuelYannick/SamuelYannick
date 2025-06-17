@@ -29,26 +29,37 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="50" alt="Tailwind CSS"/>
 </p>
 
-
 ---
 
-<!-- ### 📌 Pinned Projects
+### 🏆 GitHub Trophies
 
-Here are some of the key projects I’ve built or am working on:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=samuelyannick&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
-- [`eventure-api`](https://github.com/your-username/eventure-api) – RESTful API for event management, JWT auth, PostgreSQL, tested with Pytest
-- [`devtask`](https://github.com/your-username/devtask) – Dev-focused task manager API using flask and background workers (Celery/Redis)
-- [`marketmate`](https://github.com/your-username/marketmate) – Simple ecommerce backend with cart/wishlist logic, caching, PostgreSQL
-
-> Check my [Repositories](https://github.com/your-username?tab=repositories) for more!
-
---- -->
+---
 
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samuelyannick&show_icons=true&theme=github_dark" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelyannick&theme=github-dark-blue" width="47%" />
+</p>
+
+---
+
+### 📈 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelyannick&layout=compact&theme=github_dark" width="50%" />
+</p>
+
+---
+
+### 💬 Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
 ---

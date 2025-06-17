@@ -67,4 +67,5 @@
 ### 🤝 Let's Connect
 
 <!-- - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK) -->
+<!-- [X] -->
 - 📬 Email: o.samuelyannick@gmail.com

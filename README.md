@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🧠 Recent graduate of Moringa School's Full-Stack Bootcamp (2024–2025)
+- 🧠 Working on building scalable products
 - 🔥 Specializing in **Backend Development** with Python, Flask, PostgreSQL
 - 🌱 Learning DevOps basics for backend deployment (Docker, CI/CD)
 - 🎯 Focused on building production-ready APIs, microservices & scalable systems

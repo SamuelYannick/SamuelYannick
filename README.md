@@ -42,8 +42,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuelyannick&show_icons=true&theme=github_dark" width="47%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelyannick&theme=github-dark-blue" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelyannick&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Samuel's GitHub Stats" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelyannick&theme=github-dark-blue&include_all_commits=true&count_private=true" alt="Samuel's GitHub Streak" width="47%" />
 </p>
 
 ---
@@ -51,7 +51,7 @@
 ### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelyannick&layout=compact&theme=github_dark" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelyannick&layout=compact&theme=github_dark&count_private=true" alt="Samuel's Most Used Languages" width="50%" />
 </p>
 
 ---
@@ -68,4 +68,4 @@
 
 <!-- - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK) -->
 <!-- [X] -->
-- 📬 Email: o.samuelyannick@gmail.com
+- 📬 Email: <o.samuelyannick@gmail.com>

@@ -5,8 +5,6 @@
 Hey there 👋, I'm **Samuel Ochieng**, a **Full-Stack Developer** from **Nairobi, Kenya 🇰🇪**.  
 I craft scalable, user-focused web applications where **React meets Flask**, and **PostgreSQL stores the magic**.  
 
----
-
 ## 🧠 Developer DNA  
 
 ```javascript
@@ -24,12 +22,8 @@ const samuel = {
 };
 ````
 
----
-
 Core Skills:
 React · Next.js · TailwindCSS · Flask · Express.js · PostgreSQL · Drizzle ORM
-
----
 
 ## 📈 GitHub Stats
 
@@ -40,15 +34,11 @@ React · Next.js · TailwindCSS · Flask · Express.js · PostgreSQL · Drizzle 
 
 </div>
 
----
-
 ## 🚀 Current Projects
 
 * 🏗️ Full-stack SaaS platform (React + Flask)
 * 📚 Component library powered by Tailwind CSS
 * ⚡ PostgreSQL query optimization + Drizzle ORM exploration
-
----
 
 ## 🌟 Connect With Me
 
@@ -59,8 +49,6 @@ React · Next.js · TailwindCSS · Flask · Express.js · PostgreSQL · Drizzle 
 [![Email](https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:o.samuelyannick@gmail.com)
 
 </div>
-
----
 
 ## 💡 My Approach
 

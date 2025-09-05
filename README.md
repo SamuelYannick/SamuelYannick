@@ -18,11 +18,11 @@ const samuel = {
     backend: ["Flask", "Node.js/Express"],
     database: ["PostgreSQL + Drizzle ORM"],
   },
-  hobbies: ["Exploring Nairobi's tech scene", "System design deep-dives", "Side-project tinkering"]
+  hobbies: ["Exploring both local & global tech scene", "System design deep-dives", "Side-project tinkering"]
 };
 ````
 
-Core Skills:
+**Core Skills**:
 React · Next.js · TailwindCSS · Flask · Express.js · PostgreSQL · Drizzle ORM
 
 ## 📈 GitHub Stats

@@ -29,7 +29,7 @@ React · Next.js · TailwindCSS · Flask · Express.js · PostgreSQL · Drizzle 
 
 <div align="center">
 
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelYannick\&show_icons=true\&theme=tokyonight)
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelYannick&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelYannick\&layout=compact\&theme=tokyonight)
 
 </div>
